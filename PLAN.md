@@ -41,3 +41,8 @@ repository secrets.
 
 7. **Documentation**
    - Document setup, configuration, and usage in the README.md file.
+
+## TODO: Use the schedule JSON to source videos.
+
+We can request schedule.json for each event, and use that to find only relevant videos,
+mostly because the timings seem off.
